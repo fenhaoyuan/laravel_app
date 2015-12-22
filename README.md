@@ -1,2 +1,2 @@
-# laravel_app
+# SMS Marketing
 This is a laravel application.
